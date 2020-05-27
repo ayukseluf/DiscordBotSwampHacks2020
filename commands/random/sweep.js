@@ -16,7 +16,7 @@ class sweep extends commando.Command
     async run(message, args)
     {
         const sweepEmbed = {
-            title: 'Y\'all bitches dirty',
+            title: 'Y\'all dirty',
             image: {
                 url: 'https://media1.tenor.com/images/00937b56da85ccc7bc3e5402f23ed6f2/tenor.gif?itemid=6195813',
             },
